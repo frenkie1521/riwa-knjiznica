@@ -14,26 +14,26 @@
     <tbody>
       <tr>
         <td>1</td>
-        <td>GOTH</td>
-        <td>Otsuichi</td>
-        <td>Japanese Murder Mystery</td>
-        <td><img src="" alt="GOTH"></td>
+        <td>Can't hurt me</td>
+        <td>David Goggings</td>
+        <td>Mindset</td>
+        <td><img src="/riwa-knjiznica/quasar-project/public/icons/chm.jpg" alt="chm"></td>
         <td>3</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>Pinokijeve avanture</td>
-        <td>Carlo Collodi</td>
-        <td>Drveni decko postaje pravi</td>
-        <td><img src="" alt="Knjiga 2"></td>
+        <td>48 laws of power</td>
+        <td>Robert Greene</td>
+        <td>Eyes to real world</td>
+        <td><img src="" alt=""></td>
         <td>6</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>Bijeli klaun</td>
-        <td>Damir Miloš</td>
-        <td>Mali klaun uci o emocijama</td>
-        <td><img src="https://www.knjigolov.hr/slike/slika649.png" alt="Knjiga 3"></td>
+        <td>12 rules for life</td>
+        <td>Jordan Peterson</td>
+        <td>Antidot to chaos</td>
+        <td><img src="" alt=""></td>
         <td>8</td>
       </tr>
     </tbody>
